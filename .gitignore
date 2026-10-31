@@ -1,0 +1,20 @@
+# Project exclude paths
+.vscode
+.vscode/*
+.vs
+.vs/*
+*.o
+assembler.exe
+after_macro/*
+output/*
+# macOS
+.DS_Store
+
+# Build files
+*.exe
+*.o
+assembler/assembler
+
+# Generated output
+after_macro/
+output/
